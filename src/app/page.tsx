@@ -70,10 +70,9 @@ export default function PortfolioHome() {
         <div className="max-w-4xl mx-auto px-6">
           <h2 className="text-2xl font-bold mb-6 text-indigo-400">About</h2>
           <p className="leading-relaxed text-gray-300 text-lg">
-            Senior Computer Engineering student at Purdue University graduating May 2025. I'm passionate about building
-            reliable software‑hardware ecosystems — from AI‑driven course platforms like Enlytn to low‑level firmware on
-            STM32 microcontrollers. I thrive in collaborative environments, lead cross‑functional teams, and turn
-            ambitious ideas into polished, user‑centric products.
+            I'm a senior Computer Engineering student at Purdue. I enjoy building end-to-end products, including both hardware and software. 
+            My experience includes developing embedded systems, web applications, and mobile apps. I have a strong interest in AI and machine learning, and I love exploring new technologies to create innovative solutions.
+            My focus is on the intersection of hardware and software and on writing clean, dependable code.
           </p>
         </div>
       </section>
